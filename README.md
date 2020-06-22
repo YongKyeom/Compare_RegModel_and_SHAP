@@ -11,6 +11,7 @@
   * 'VISCOSITY' in the script means that I want to know property variable, main target variable.
   So If you do not have vairable like 'VISCOSITY', you need to remove that
   * LM with caret package, Random Forest with h2o package and XGBoost with xgboost package
+  * In case of XGBoost, there is parameter tunning with grid search. So if you adjust parameter, revie 'PARAGRID_LS'
 
 ### Output
   * Error_Result: RMSE & MAE according to variable combinations & VISCOSITY level
