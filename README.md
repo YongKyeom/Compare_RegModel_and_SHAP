@@ -29,4 +29,4 @@
 ## Script: RFE_XGB
 ### Description
   * I want to RFE(Recursive Feature Elimination) with XGBoost Model, but there is no package this mehthod.
-  * So I write 'User define function with RFE with XGBoost'
+  * So I write 'User define function' with RFE with XGBoost
