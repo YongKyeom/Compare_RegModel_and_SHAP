@@ -1,4 +1,4 @@
-# Compare_RegressionModel_LM_RF_XGB
+Compare_RegModel_and_SHAP
 
 ## Description
 * Regression problem
