@@ -1,9 +1,9 @@
-# Compare_RegModel_and_SHAP
+# Compare Regression Model and SHAP(XGBoost)
 
 ## Description
 * Regression problem
 * According to various variable combinations, Compare prediction error with (Lasso) Linear Regression, Random Forest and XGBoost
-* I used 3 variable combinations
+* I used 4 variable combinations
 
 ## Script: LM_RF_XGB_Compare
 ### Description
